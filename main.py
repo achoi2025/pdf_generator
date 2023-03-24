@@ -5,6 +5,7 @@ from event import start_event, load_event, save_event
 #from utils import...
 
 def main():
+    print('hello')
     window = tk.Tk() 
     monitor_width  = window.winfo_screenwidth()
     monitor_height = window.winfo_screenheight()
