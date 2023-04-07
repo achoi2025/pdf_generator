@@ -29,7 +29,7 @@ ___
 
 <!-- USAGE EXAMPLES -->
 
-## User Interface
+## User Interface 🖥
 
 |Button|Feature|
 |:--:|:--:|
@@ -44,7 +44,7 @@ ___
 
 ___
 <!-- GETTING STARTED -->
-## Getting Started
+## Getting Started ⭐️
 
 ### Prerequisites
 
